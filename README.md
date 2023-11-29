@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dsj19orpk2vp9rxb?svg=true)](https://ci.appveyor.com/project/Anya9999222/generators)
